@@ -29,7 +29,10 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Configurando Metamask](https://web.dio.me/lab/criando-o-seu-primeiro-token-do-zero/learning/3742d886-ba36-415c-abf7-df6463638ff8)[Criando o seu Token](https://web.dio.me/lab/criando-o-seu-primeiro-token-do-zero/learning/b2ce347c-1e23-40c7-9b18-7c71c3ae4627)[Entendendo o Desafio](https://web.dio.me/lab/criando-o-seu-primeiro-token-do-zero/learning/c3c6b798-24da-4f10-a4ea-65a51e1c9093)[ENTREGAR PROJETO](https://web.dio.me/project/criando-o-seu-primeiro-token-do-zero/learning/3742d886-ba36-415c-abf7-df6463638ff8?back=/track/formacao-web3-fundamentals&tab=undefined&moduleId=undefined)
+- [Configurando Metamask](https://web.dio.me/lab/criando-o-seu-primeiro-token-do-zero/learning/3742d886-ba36-415c-abf7-df6463638ff8)
+- [Criando o seu Token](https://web.dio.me/lab/criando-o-seu-primeiro-token-do-zero/learning/b2ce347c-1e23-40c7-9b18-7c71c3ae4627)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-o-seu-primeiro-token-do-zero/learning/c3c6b798-24da-4f10-a4ea-65a51e1c9093)
+- [ENTREGAR PROJETO](https://web.dio.me/project/criando-o-seu-primeiro-token-do-zero/learning/3742d886-ba36-415c-abf7-df6463638ff8?back=/track/formacao-web3-fundamentals&tab=undefined&moduleId=undefined)
 
 
 
